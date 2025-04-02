@@ -4,5 +4,5 @@ This sales analysis project aims to provide insights into the pizza sales perfor
 
 ###Tools Used
 
-MySql - Data analysis
-PowerBi - Creating reports
+- MySql - Data analysis
+- PowerBi - Creating reports
